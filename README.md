@@ -16,7 +16,7 @@ I am an experienced Full Stack JavaScript Developer with a demonstrated history 
 <img align="left" src="https://img.icons8.com/color/96/000000/mongodb.png" alt="mongodb"/>
 <img align="left" src="https://img.icons8.com/color/96/000000/postgreesql.png" alt="postgreesql"/>
 
-<br>
+
 ## ✉ Send me a message
 [<img src="https://img.icons8.com/color/96/000000/linkedin.png"/>](https://www.linkedin.com/in/matthew-plowey/)
 [<img src="https://img.icons8.com/fluent/96/000000/gmail.png"/>](mailto:matthew.plowey@gmail.com?subject=[GitHub])
