@@ -12,7 +12,7 @@ I am an experienced Full Stack JavaScript Developer with a demonstrated history 
 <img align="left" src="https://img.icons8.com/color/96/000000/typescript.png" alt="Typescript"/>
 <img align="left" src="https://img.icons8.com/color/96/000000/nodejs.png" alt="nodejs"/>
 <img align="left" src="https://img.icons8.com/color/96/000000/docker.png" alt="docker"/>
-<img align="left" src="https://img.icons8.com/color/96/000000/firebase.png" alt="firebase/>
+<img align="left" src="https://img.icons8.com/color/96/000000/firebase.png" alt="firebase"/>
 <img align="left" src="https://img.icons8.com/color/96/000000/mongodb.png" alt="mongodb"/>
 <img align="left" src="https://img.icons8.com/color/96/000000/postgreesql.png" alt="postgreesql"/>
 
