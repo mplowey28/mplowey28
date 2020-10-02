@@ -6,8 +6,8 @@ I am an experienced Full Stack JavaScript Developer with a demonstrated history 
 
 
 ---
-
 ## 💻 Technologies and Tools
+<p align='center'>
 <img src="https://img.icons8.com/color/96/000000/html-5.png" alt="HTML5"/>
 <img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS3"/>
 <img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript"/>
@@ -18,9 +18,10 @@ I am an experienced Full Stack JavaScript Developer with a demonstrated history 
 <img src="https://img.icons8.com/color/96/000000/mongodb.png" alt="mongodb"/>
 <img src="https://img.icons8.com/color/96/000000/postgreesql.png" alt="postgreesql"/>
 <img src="https://img.icons8.com/color/96/000000/docker.png" alt="docker"/>
+</p>
 
----
 
 ## ✉ Send me a message
+
 [<img src="https://img.icons8.com/color/96/000000/linkedin.png"/>](https://www.linkedin.com/in/matthew-plowey/)
 [<img src="https://img.icons8.com/fluent/96/000000/gmail.png"/>](mailto:matthew.plowey@gmail.com?subject=[GitHub])
