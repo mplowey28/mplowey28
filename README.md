@@ -23,10 +23,10 @@ I am an experienced Full Stack JavaScript Developer with a demonstrated history 
 
 
 ## ✉ Send me a message
-
+<p align='center'>
 [<img src="https://img.icons8.com/color/96/000000/linkedin.png"/>](https://www.linkedin.com/in/matthew-plowey/)
 [<img src="https://img.icons8.com/fluent/96/000000/gmail.png"/>](mailto:matthew.plowey@gmail.com?subject=[GitHub])
-
+</p>
 ## 📊 Checkout my stats!
 
 [![Matthew's github stats](https://github-readme-stats.vercel.app/api?username=mplowey28)](https://github.com/mplowey28/github-readme-stats)
