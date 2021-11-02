@@ -11,9 +11,9 @@ I am an experienced Full Stack JavaScript Developer with a demonstrated history 
 <img src="https://img.icons8.com/color/96/000000/html-5.png" alt="HTML5"/>
 <img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS3"/>
 <img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/96/000000/typescript.png" alt="Typescript"/>
 <img src="https://img.icons8.com/color/96/000000/react-native.png" alt="react"/>
 <img src="https://img.icons8.com/color/96/000000/redux.png" alt="Redux"/>
-<img src="https://img.icons8.com/color/96/000000/typescript.png" alt="Typescript"/>
 <img src="https://img.icons8.com/color/96/000000/nodejs.png" alt="nodejs"/>
 <img src="https://img.icons8.com/color/96/000000/firebase.png" alt="firebase"/>
 <img src="https://img.icons8.com/color/96/000000/mongodb.png" alt="mongodb"/>
