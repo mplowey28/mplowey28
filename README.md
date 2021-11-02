@@ -29,6 +29,7 @@ I am an experienced Full Stack JavaScript Developer with a demonstrated history 
 <img src="https://img.icons8.com/color/96/000000/firebase.png" alt="firebase"/>
 <img src="https://img.icons8.com/color/96/000000/mongodb.png" alt="mongodb"/>
 <img src="https://img.icons8.com/color/96/000000/postgreesql.png" alt="postgreesql"/>
+  <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png"/>
 </td>
 <td>
   <img src="https://img.icons8.com/material-outlined/96/000000/github.png"/>
