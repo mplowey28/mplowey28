@@ -2,7 +2,7 @@
 
 
 ## 👨 Who am I?
-I am an experienced Full Stack JavaScript Developer with a demonstrated history of working with React, React Native, Node.js, Express, and Firebase. Before becoming a developer I worked as a researcher and teacher who acquired a strong interest in development through hobby coding and through my work as a researcher. I enjoy communicating technical concepts and developing apps and services that are both user-friendly and visually appealing. 
+I am an experienced Full Stack JavaScript Developer with a demonstrated history of working with React, React Native, and Node.js. Before becoming a developer I worked as a researcher and teacher who acquired a strong interest in development through hobby coding and through my work as a researcher. I enjoy communicating technical concepts and developing apps and services that are both user-friendly and visually appealing. 
 
 
 ---
@@ -14,7 +14,7 @@ I am an experienced Full Stack JavaScript Developer with a demonstrated history 
 <img src="https://img.icons8.com/color/96/000000/typescript.png" alt="Typescript"/>
 <img src="https://img.icons8.com/color/96/000000/react-native.png" alt="react"/>
 <img src="https://img.icons8.com/color/96/000000/redux.png" alt="Redux"/>
-<img src="https://img.icons8.com/color/48/000000/material-ui.png"/>
+<img src="https://img.icons8.com/color/96/000000/material-ui.png"/>
 <img src="https://img.icons8.com/color/96/000000/nodejs.png" alt="nodejs"/>
 <img src="https://img.icons8.com/color/96/000000/firebase.png" alt="firebase"/>
 <img src="https://img.icons8.com/color/96/000000/mongodb.png" alt="mongodb"/>
