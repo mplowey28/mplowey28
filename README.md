@@ -37,6 +37,7 @@ I am an experienced Full Stack JavaScript Developer with a demonstrated history 
   <img src="https://img.icons8.com/material-outlined/96/000000/github.png"/>
   <img src="https://img.icons8.com/color/96/000000/gitlab.png"/>
   <img src="https://img.icons8.com/color/96/000000/npm.png"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/external-yarn-fast-reliable-and-secure-dependency-management-web-portal-logo-color-tal-revivo.png" height="96" width="96"/>
   <img src="https://img.icons8.com/color/96/000000/docker.png" alt="docker"/>
   </td>
 </tr>
