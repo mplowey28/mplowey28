@@ -23,6 +23,7 @@ I am an experienced Full Stack JavaScript Developer with a demonstrated history 
 <img src="https://img.icons8.com/color/96/000000/react-native.png" alt="react"/>
 <img src="https://img.icons8.com/color/96/000000/redux.png" alt="Redux"/>
 <img src="https://img.icons8.com/color/96/000000/material-ui.png"/>
+<img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" alt="Tailwind"/>
 </td>
 <td>
 <img src="https://img.icons8.com/color/96/000000/nodejs.png" alt="nodejs"/>
