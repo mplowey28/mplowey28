@@ -39,7 +39,7 @@ I am an experienced Full Stack JavaScript Developer with a demonstrated history 
   <img src="https://img.icons8.com/color/96/000000/npm.png"/>
   <img src="https://avatars.githubusercontent.com/u/22247014?s=88&v=4" height="96" width="96"/>
   <img src="https://img.icons8.com/color/96/000000/docker.png" alt="docker"/>
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-shadow-tal-revivo.png" height="96" width="96"/>
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-shadow-tal-revivo.png"/>
   <img src="https://testing-library.com/img/octopus-64x64.png" />
   </td>
 </tr>
