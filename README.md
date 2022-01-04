@@ -33,6 +33,7 @@ I am an experienced Full Stack JavaScript Developer with a demonstrated history 
   <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png"/>
 </td>
 <td>
+  <img src="https://img.icons8.com/color/96/git.png" />
   <img src="https://img.icons8.com/material-outlined/96/000000/github.png"/>
   <img src="https://img.icons8.com/color/96/000000/gitlab.png"/>
   <img src="https://img.icons8.com/color/96/000000/npm.png"/>
