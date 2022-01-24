@@ -56,7 +56,8 @@ I am an experienced full-stack JavaScript/TypeScript Developer with a demonstrat
 [<img src="https://img.icons8.com/fluent/96/000000/gmail.png"/>](mailto:matthew.plowey@gmail.com?subject=[GitHub])
 
 ## 📊 Checkout my stats!
-
+<p align="center">
 [![Matthew's github stats](https://github-readme-stats.vercel.app/api?username=mplowey28)](https://github.com/mplowey28/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mplowey28&layout=compact)](https://github.com/mplowey28/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+</p>
