@@ -4,7 +4,7 @@
 ## 👨 Who am I?
 I am an experienced full-stack JavaScript/TypeScript Developer with a demonstrated history of working with React, React Native, and Node.js. Before becoming a developer I worked as a researcher and teacher who acquired a strong interest in development through hobby coding and through my work as a researcher. I enjoy communicating technical concepts and developing apps and services that are both user-friendly and visually appealing. 
 
-- 🌱 I’m currently learning Rust and Next.js and making beautiful, responsive, and user-friendly dashboards for Flowbox! 
+- 🌱 I’m currently learning .NET and Next.js and making payment simple with Qliro's beautiful, responsive, and user-friendly app and website! 
 
 ---
 ## 💻 Technologies and Tools
